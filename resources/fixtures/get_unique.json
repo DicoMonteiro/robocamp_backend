@@ -1,0 +1,8 @@
+{
+    "title": "GameBoy",
+    "category": "Consoles",
+    "producers": ["Nintendo"],
+    "price": "99.99",
+    "description": "Game portatil",
+    "cover": "game-boy.jpg"
+}

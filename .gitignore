@@ -1,0 +1,10 @@
+logs
+
+.pytest_cache
+
+resources/libs/__pycache__
+
+
+*.png
+# *.html
+# *.xml

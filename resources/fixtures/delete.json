@@ -1,0 +1,8 @@
+{
+    "title": "Atari",
+    "category": "Consoles",
+    "producers": ["Atari"],
+    "price": "199.99",
+    "description": "Game das antigas!",
+    "cover": "atari.jpg"
+}
